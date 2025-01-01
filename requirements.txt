@@ -1,0 +1,13 @@
+pyttsx3
+speech_recognition
+plyer
+pyautogui
+wikipedia
+pywhatkit
+spotipy
+fuzzywuzzy
+python-dotenv
+requests
+pycaw
+comtypes
+google-generativeai
